@@ -1,4 +1,4 @@
-# 👋 嗨，我是明潔 (Ming-Chieh)
+# 👋 Hi, I'm Jessie Kuo (郭明潔)
 
 <div align="center">
   
@@ -113,10 +113,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessie475&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie475&layout=compact&theme=tokyonight)
+<!-- Streak Stats - 這個很穩定！ -->
+<img src="https://streak-stats.demolab.com/?user=Jessie475&theme=tokyonight&hide_border=true"/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jessie475&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
