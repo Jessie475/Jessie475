@@ -11,7 +11,7 @@
 - 🏫 Information Management Student @ **National Chengchi University** (Expected 2026)
 - 💼 Former **Generative AI Engineer Intern** @ WanMa Information Co.
 - 🌱 Exploring the intersection of **AI technology** and **ESG sustainability**
-- 🇯🇵 JLPT N1 | Trilingual: Mandarin, English, Japanese
+- 🇯🇵 JLPT N1, TOEIC 920 | Trilingual: Mandarin, English, Japanese
 - 📍 Based in Taipei, Taiwan
 
 ## 🛠️ Tech Stack
@@ -42,7 +42,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 E-Family Bridge - Elderly Care AI Chatbot
+### 🤖 E-Family - Elderly Care AI Chatbot
 **[📂 View Case Study](link-to-portfolio-repo/efamily)** | *Capstone Project 2024-2025*
 
 > AI-powered conversation system that preserves elderly stories and local heritage in rural Taiwan
@@ -114,9 +114,9 @@
 
 <div align="center">
   
-![Ming-Chieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessie475&show_icons=true&theme=tokyonight)
+![Jessie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessie475&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessie475&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessie475&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -143,6 +143,6 @@ I'm passionate about leveraging **AI technology** to drive **ESG transformation*
   
   *"Technology should serve humanity and create a sustainable future."*
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Jessie475&color=blueviolet)
   
 </div>
