@@ -114,9 +114,9 @@
 
 <div align="center">
   
-![Ming-Chieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Ming-Chieh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessie475&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessie475&layout=compact&theme=tokyonight)
 
 </div>
 
